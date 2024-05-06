@@ -24,10 +24,6 @@ The objective was to increase the proportion of registered users who search for 
 4. **Insights and Recommendations**: Summarize findings and provide actionable recommendations to improve user engagement based on the test results.
 5. **Communication with Stakeholders**: Present findings and recommendations to the Product team in an accessible and understandable manner.
 
-## Visuals:
-
-Please refer to the [images](link_to_images) for visual representations of the analysis.
-
 ## Insights 💡:
 
 - Variant 1, which hid the option to choose "Undecided" on the location step, showed a significant increase in users adding a location compared to the control group.
